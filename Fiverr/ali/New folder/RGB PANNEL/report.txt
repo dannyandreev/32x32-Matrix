@@ -1,0 +1,9 @@
+Plot file "E:\2020\FREELAUNCER\Fiverr\rgb display\RGB PANNEL-F_Cu.pdf" created.
+Plot file "E:\2020\FREELAUNCER\Fiverr\rgb display\RGB PANNEL-B_Cu.pdf" created.
+Plot file "E:\2020\FREELAUNCER\Fiverr\rgb display\RGB PANNEL-F_Paste.pdf" created.
+Plot file "E:\2020\FREELAUNCER\Fiverr\rgb display\RGB PANNEL-B_Paste.pdf" created.
+Plot file "E:\2020\FREELAUNCER\Fiverr\rgb display\RGB PANNEL-F_SilkS.pdf" created.
+Plot file "E:\2020\FREELAUNCER\Fiverr\rgb display\RGB PANNEL-B_SilkS.pdf" created.
+Plot file "E:\2020\FREELAUNCER\Fiverr\rgb display\RGB PANNEL-F_Mask.pdf" created.
+Plot file "E:\2020\FREELAUNCER\Fiverr\rgb display\RGB PANNEL-B_Mask.pdf" created.
+Plot file "E:\2020\FREELAUNCER\Fiverr\rgb display\RGB PANNEL-Edge_Cuts.pdf" created.

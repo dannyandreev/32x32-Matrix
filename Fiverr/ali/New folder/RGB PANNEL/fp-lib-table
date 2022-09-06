@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "RGB PANNEL")(type KiCad)(uri "${KIPRJMOD}/RGB PANNEL.pretty")(options "")(descr ""))
+  (lib (name RGB)(type KiCad)(uri "${KIPRJMOD}/RGB PANNEL.pretty/RGB.pretty")(options "")(descr ""))
+)

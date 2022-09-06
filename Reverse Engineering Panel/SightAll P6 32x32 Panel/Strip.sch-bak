@@ -1,0 +1,1648 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 102 142
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 750  900  800  900 
+U 6005AD13
+F0 "8LEDS_0" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 1550 1000 50 
+F3 "Row1" I R 1550 1100 50 
+F4 "Row2" I R 1550 1200 50 
+F5 "Row3" I R 1550 1300 50 
+F6 "Row4" I R 1550 1400 50 
+F7 "Row5" I R 1550 1500 50 
+F8 "Row6" I R 1550 1600 50 
+F9 "Row7" I R 1550 1700 50 
+F10 "B" I L 750 1200 50 
+F11 "R" I L 750 1000 50 
+F12 "G" I L 750 1100 50 
+$EndSheet
+$Sheet
+S 2100 900  800  900 
+U 600BDD79
+F0 "sheet600BDD6C" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 2900 1000 50 
+F3 "Row1" I R 2900 1100 50 
+F4 "Row2" I R 2900 1200 50 
+F5 "Row3" I R 2900 1300 50 
+F6 "Row4" I R 2900 1400 50 
+F7 "Row5" I R 2900 1500 50 
+F8 "Row6" I R 2900 1600 50 
+F9 "Row7" I R 2900 1700 50 
+F10 "B" I L 2100 1200 50 
+F11 "R" I L 2100 1000 50 
+F12 "G" I L 2100 1100 50 
+$EndSheet
+Text HLabel 1550 1000 2    50   Input ~ 0
+Row0
+Text HLabel 1550 1100 2    50   Input ~ 0
+Row1
+Text HLabel 1550 1200 2    50   Input ~ 0
+Row2
+Text HLabel 1550 1300 2    50   Input ~ 0
+Row3
+Text HLabel 1550 1400 2    50   Input ~ 0
+Row4
+Text HLabel 1550 1500 2    50   Input ~ 0
+Row5
+Text HLabel 1550 1600 2    50   Input ~ 0
+Row6
+Text HLabel 1550 1700 2    50   Input ~ 0
+Row7
+Text HLabel 2900 1000 2    50   Input ~ 0
+Row0
+Text HLabel 2900 1100 2    50   Input ~ 0
+Row1
+Text HLabel 2900 1200 2    50   Input ~ 0
+Row2
+Text HLabel 2900 1300 2    50   Input ~ 0
+Row3
+Text HLabel 2900 1400 2    50   Input ~ 0
+Row4
+Text HLabel 2900 1500 2    50   Input ~ 0
+Row5
+Text HLabel 2900 1600 2    50   Input ~ 0
+Row6
+Text HLabel 2900 1700 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	750  1000 700  1000
+Wire Wire Line
+	700  1000 700  1900
+Wire Wire Line
+	750  1100 600  1100
+Wire Wire Line
+	600  1100 600  1900
+Wire Wire Line
+	750  1200 500  1200
+Wire Wire Line
+	500  1200 500  1900
+Text HLabel 500  1900 3    50   Input ~ 0
+B_0
+Text HLabel 700  1900 3    50   Input ~ 0
+R_0
+Text HLabel 600  1900 3    50   Input ~ 0
+G_0
+Wire Wire Line
+	2100 1000 2050 1000
+Wire Wire Line
+	2050 1000 2050 1900
+Wire Wire Line
+	2100 1100 1950 1100
+Wire Wire Line
+	1950 1100 1950 1900
+Wire Wire Line
+	2100 1200 1850 1200
+Wire Wire Line
+	1850 1200 1850 1900
+Text HLabel 1850 1900 3    50   Input ~ 0
+B_1
+Text HLabel 2050 1900 3    50   Input ~ 0
+R_1
+Text HLabel 1950 1900 3    50   Input ~ 0
+G_1
+$Sheet
+S 3450 900  800  900 
+U 600C353F
+F0 "sheet600C3531" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 4250 1000 50 
+F3 "Row1" I R 4250 1100 50 
+F4 "Row2" I R 4250 1200 50 
+F5 "Row3" I R 4250 1300 50 
+F6 "Row4" I R 4250 1400 50 
+F7 "Row5" I R 4250 1500 50 
+F8 "Row6" I R 4250 1600 50 
+F9 "Row7" I R 4250 1700 50 
+F10 "B" I L 3450 1200 50 
+F11 "R" I L 3450 1000 50 
+F12 "G" I L 3450 1100 50 
+$EndSheet
+$Sheet
+S 4800 900  800  900 
+U 600C354C
+F0 "sheet600C3532" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 5600 1000 50 
+F3 "Row1" I R 5600 1100 50 
+F4 "Row2" I R 5600 1200 50 
+F5 "Row3" I R 5600 1300 50 
+F6 "Row4" I R 5600 1400 50 
+F7 "Row5" I R 5600 1500 50 
+F8 "Row6" I R 5600 1600 50 
+F9 "Row7" I R 5600 1700 50 
+F10 "B" I L 4800 1200 50 
+F11 "R" I L 4800 1000 50 
+F12 "G" I L 4800 1100 50 
+$EndSheet
+Text HLabel 4250 1000 2    50   Input ~ 0
+Row0
+Text HLabel 4250 1100 2    50   Input ~ 0
+Row1
+Text HLabel 4250 1200 2    50   Input ~ 0
+Row2
+Text HLabel 4250 1300 2    50   Input ~ 0
+Row3
+Text HLabel 4250 1400 2    50   Input ~ 0
+Row4
+Text HLabel 4250 1500 2    50   Input ~ 0
+Row5
+Text HLabel 4250 1600 2    50   Input ~ 0
+Row6
+Text HLabel 4250 1700 2    50   Input ~ 0
+Row7
+Text HLabel 5600 1000 2    50   Input ~ 0
+Row0
+Text HLabel 5600 1100 2    50   Input ~ 0
+Row1
+Text HLabel 5600 1200 2    50   Input ~ 0
+Row2
+Text HLabel 5600 1300 2    50   Input ~ 0
+Row3
+Text HLabel 5600 1400 2    50   Input ~ 0
+Row4
+Text HLabel 5600 1500 2    50   Input ~ 0
+Row5
+Text HLabel 5600 1600 2    50   Input ~ 0
+Row6
+Text HLabel 5600 1700 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	3450 1000 3400 1000
+Wire Wire Line
+	3400 1000 3400 1900
+Wire Wire Line
+	3450 1100 3300 1100
+Wire Wire Line
+	3300 1100 3300 1900
+Wire Wire Line
+	3450 1200 3200 1200
+Wire Wire Line
+	3200 1200 3200 1900
+Text HLabel 3200 1900 3    50   Input ~ 0
+B_2
+Text HLabel 3400 1900 3    50   Input ~ 0
+R_2
+Text HLabel 3300 1900 3    50   Input ~ 0
+G_2
+Wire Wire Line
+	4800 1000 4750 1000
+Wire Wire Line
+	4750 1000 4750 1900
+Wire Wire Line
+	4800 1100 4650 1100
+Wire Wire Line
+	4650 1100 4650 1900
+Wire Wire Line
+	4800 1200 4550 1200
+Wire Wire Line
+	4550 1200 4550 1900
+Text HLabel 4550 1900 3    50   Input ~ 0
+B_3
+Text HLabel 4750 1900 3    50   Input ~ 0
+R_3
+Text HLabel 4650 1900 3    50   Input ~ 0
+G_3
+$Sheet
+S 6150 900  800  900 
+U 600C6C63
+F0 "sheet600C6C53" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 6950 1000 50 
+F3 "Row1" I R 6950 1100 50 
+F4 "Row2" I R 6950 1200 50 
+F5 "Row3" I R 6950 1300 50 
+F6 "Row4" I R 6950 1400 50 
+F7 "Row5" I R 6950 1500 50 
+F8 "Row6" I R 6950 1600 50 
+F9 "Row7" I R 6950 1700 50 
+F10 "B" I L 6150 1200 50 
+F11 "R" I L 6150 1000 50 
+F12 "G" I L 6150 1100 50 
+$EndSheet
+$Sheet
+S 7500 900  800  900 
+U 600C6C70
+F0 "sheet600C6C54" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 8300 1000 50 
+F3 "Row1" I R 8300 1100 50 
+F4 "Row2" I R 8300 1200 50 
+F5 "Row3" I R 8300 1300 50 
+F6 "Row4" I R 8300 1400 50 
+F7 "Row5" I R 8300 1500 50 
+F8 "Row6" I R 8300 1600 50 
+F9 "Row7" I R 8300 1700 50 
+F10 "B" I L 7500 1200 50 
+F11 "R" I L 7500 1000 50 
+F12 "G" I L 7500 1100 50 
+$EndSheet
+Text HLabel 6950 1000 2    50   Input ~ 0
+Row0
+Text HLabel 6950 1100 2    50   Input ~ 0
+Row1
+Text HLabel 6950 1200 2    50   Input ~ 0
+Row2
+Text HLabel 6950 1300 2    50   Input ~ 0
+Row3
+Text HLabel 6950 1400 2    50   Input ~ 0
+Row4
+Text HLabel 6950 1500 2    50   Input ~ 0
+Row5
+Text HLabel 6950 1600 2    50   Input ~ 0
+Row6
+Text HLabel 6950 1700 2    50   Input ~ 0
+Row7
+Text HLabel 8300 1000 2    50   Input ~ 0
+Row0
+Text HLabel 8300 1100 2    50   Input ~ 0
+Row1
+Text HLabel 8300 1200 2    50   Input ~ 0
+Row2
+Text HLabel 8300 1300 2    50   Input ~ 0
+Row3
+Text HLabel 8300 1400 2    50   Input ~ 0
+Row4
+Text HLabel 8300 1500 2    50   Input ~ 0
+Row5
+Text HLabel 8300 1600 2    50   Input ~ 0
+Row6
+Text HLabel 8300 1700 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	6150 1000 6100 1000
+Wire Wire Line
+	6100 1000 6100 1900
+Wire Wire Line
+	6150 1100 6000 1100
+Wire Wire Line
+	6000 1100 6000 1900
+Wire Wire Line
+	6150 1200 5900 1200
+Wire Wire Line
+	5900 1200 5900 1900
+Text HLabel 5900 1900 3    50   Input ~ 0
+B_4
+Text HLabel 6100 1900 3    50   Input ~ 0
+R_4
+Text HLabel 6000 1900 3    50   Input ~ 0
+G_4
+Wire Wire Line
+	7500 1000 7450 1000
+Wire Wire Line
+	7450 1000 7450 1900
+Wire Wire Line
+	7500 1100 7350 1100
+Wire Wire Line
+	7350 1100 7350 1900
+Wire Wire Line
+	7500 1200 7250 1200
+Wire Wire Line
+	7250 1200 7250 1900
+Text HLabel 7250 1900 3    50   Input ~ 0
+B_5
+Text HLabel 7450 1900 3    50   Input ~ 0
+R_5
+Text HLabel 7350 1900 3    50   Input ~ 0
+G_5
+$Sheet
+S 8850 900  800  900 
+U 600C6C9F
+F0 "sheet600C6C55" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 9650 1000 50 
+F3 "Row1" I R 9650 1100 50 
+F4 "Row2" I R 9650 1200 50 
+F5 "Row3" I R 9650 1300 50 
+F6 "Row4" I R 9650 1400 50 
+F7 "Row5" I R 9650 1500 50 
+F8 "Row6" I R 9650 1600 50 
+F9 "Row7" I R 9650 1700 50 
+F10 "B" I L 8850 1200 50 
+F11 "R" I L 8850 1000 50 
+F12 "G" I L 8850 1100 50 
+$EndSheet
+$Sheet
+S 10200 900  800  900 
+U 600C6CAC
+F0 "sheet600C6C56" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 11000 1000 50 
+F3 "Row1" I R 11000 1100 50 
+F4 "Row2" I R 11000 1200 50 
+F5 "Row3" I R 11000 1300 50 
+F6 "Row4" I R 11000 1400 50 
+F7 "Row5" I R 11000 1500 50 
+F8 "Row6" I R 11000 1600 50 
+F9 "Row7" I R 11000 1700 50 
+F10 "B" I L 10200 1200 50 
+F11 "R" I L 10200 1000 50 
+F12 "G" I L 10200 1100 50 
+$EndSheet
+Text HLabel 9650 1000 2    50   Input ~ 0
+Row0
+Text HLabel 9650 1100 2    50   Input ~ 0
+Row1
+Text HLabel 9650 1200 2    50   Input ~ 0
+Row2
+Text HLabel 9650 1300 2    50   Input ~ 0
+Row3
+Text HLabel 9650 1400 2    50   Input ~ 0
+Row4
+Text HLabel 9650 1500 2    50   Input ~ 0
+Row5
+Text HLabel 9650 1600 2    50   Input ~ 0
+Row6
+Text HLabel 9650 1700 2    50   Input ~ 0
+Row7
+Text HLabel 11000 1000 2    50   Input ~ 0
+Row0
+Text HLabel 11000 1100 2    50   Input ~ 0
+Row1
+Text HLabel 11000 1200 2    50   Input ~ 0
+Row2
+Text HLabel 11000 1300 2    50   Input ~ 0
+Row3
+Text HLabel 11000 1400 2    50   Input ~ 0
+Row4
+Text HLabel 11000 1500 2    50   Input ~ 0
+Row5
+Text HLabel 11000 1600 2    50   Input ~ 0
+Row6
+Text HLabel 11000 1700 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	8850 1000 8800 1000
+Wire Wire Line
+	8800 1000 8800 1900
+Wire Wire Line
+	8850 1100 8700 1100
+Wire Wire Line
+	8700 1100 8700 1900
+Wire Wire Line
+	8850 1200 8600 1200
+Wire Wire Line
+	8600 1200 8600 1900
+Text HLabel 8600 1900 3    50   Input ~ 0
+B_6
+Text HLabel 8800 1900 3    50   Input ~ 0
+R_6
+Text HLabel 8700 1900 3    50   Input ~ 0
+G_6
+Wire Wire Line
+	10200 1000 10150 1000
+Wire Wire Line
+	10150 1000 10150 1900
+Wire Wire Line
+	10200 1100 10050 1100
+Wire Wire Line
+	10050 1100 10050 1900
+Wire Wire Line
+	10200 1200 9950 1200
+Wire Wire Line
+	9950 1200 9950 1900
+Text HLabel 9950 1900 3    50   Input ~ 0
+B_7
+Text HLabel 10150 1900 3    50   Input ~ 0
+R_7
+Text HLabel 10050 1900 3    50   Input ~ 0
+G_7
+$Sheet
+S 750  2250 800  900 
+U 600CE9D3
+F0 "sheet600CE9BF" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 1550 2350 50 
+F3 "Row1" I R 1550 2450 50 
+F4 "Row2" I R 1550 2550 50 
+F5 "Row3" I R 1550 2650 50 
+F6 "Row4" I R 1550 2750 50 
+F7 "Row5" I R 1550 2850 50 
+F8 "Row6" I R 1550 2950 50 
+F9 "Row7" I R 1550 3050 50 
+F10 "B" I L 750 2550 50 
+F11 "R" I L 750 2350 50 
+F12 "G" I L 750 2450 50 
+$EndSheet
+$Sheet
+S 2100 2250 800  900 
+U 600CE9E0
+F0 "sheet600CE9C0" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 2900 2350 50 
+F3 "Row1" I R 2900 2450 50 
+F4 "Row2" I R 2900 2550 50 
+F5 "Row3" I R 2900 2650 50 
+F6 "Row4" I R 2900 2750 50 
+F7 "Row5" I R 2900 2850 50 
+F8 "Row6" I R 2900 2950 50 
+F9 "Row7" I R 2900 3050 50 
+F10 "B" I L 2100 2550 50 
+F11 "R" I L 2100 2350 50 
+F12 "G" I L 2100 2450 50 
+$EndSheet
+Text HLabel 1550 2350 2    50   Input ~ 0
+Row0
+Text HLabel 1550 2450 2    50   Input ~ 0
+Row1
+Text HLabel 1550 2550 2    50   Input ~ 0
+Row2
+Text HLabel 1550 2650 2    50   Input ~ 0
+Row3
+Text HLabel 1550 2750 2    50   Input ~ 0
+Row4
+Text HLabel 1550 2850 2    50   Input ~ 0
+Row5
+Text HLabel 1550 2950 2    50   Input ~ 0
+Row6
+Text HLabel 1550 3050 2    50   Input ~ 0
+Row7
+Text HLabel 2900 2350 2    50   Input ~ 0
+Row0
+Text HLabel 2900 2450 2    50   Input ~ 0
+Row1
+Text HLabel 2900 2550 2    50   Input ~ 0
+Row2
+Text HLabel 2900 2650 2    50   Input ~ 0
+Row3
+Text HLabel 2900 2750 2    50   Input ~ 0
+Row4
+Text HLabel 2900 2850 2    50   Input ~ 0
+Row5
+Text HLabel 2900 2950 2    50   Input ~ 0
+Row6
+Text HLabel 2900 3050 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	750  2350 700  2350
+Wire Wire Line
+	700  2350 700  3250
+Wire Wire Line
+	750  2450 600  2450
+Wire Wire Line
+	600  2450 600  3250
+Wire Wire Line
+	750  2550 500  2550
+Wire Wire Line
+	500  2550 500  3250
+Text HLabel 500  3250 3    50   Input ~ 0
+B_8
+Text HLabel 700  3250 3    50   Input ~ 0
+R_8
+Text HLabel 600  3250 3    50   Input ~ 0
+G_8
+Wire Wire Line
+	2100 2350 2050 2350
+Wire Wire Line
+	2050 2350 2050 3250
+Wire Wire Line
+	2100 2450 1950 2450
+Wire Wire Line
+	1950 2450 1950 3250
+Wire Wire Line
+	2100 2550 1850 2550
+Wire Wire Line
+	1850 2550 1850 3250
+Text HLabel 1850 3250 3    50   Input ~ 0
+B_9
+Text HLabel 2050 3250 3    50   Input ~ 0
+R_9
+Text HLabel 1950 3250 3    50   Input ~ 0
+G_9
+$Sheet
+S 3450 2250 800  900 
+U 600CEA0F
+F0 "sheet600CE9C1" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 4250 2350 50 
+F3 "Row1" I R 4250 2450 50 
+F4 "Row2" I R 4250 2550 50 
+F5 "Row3" I R 4250 2650 50 
+F6 "Row4" I R 4250 2750 50 
+F7 "Row5" I R 4250 2850 50 
+F8 "Row6" I R 4250 2950 50 
+F9 "Row7" I R 4250 3050 50 
+F10 "B" I L 3450 2550 50 
+F11 "R" I L 3450 2350 50 
+F12 "G" I L 3450 2450 50 
+$EndSheet
+$Sheet
+S 4800 2250 800  900 
+U 600CEA1C
+F0 "sheet600CE9C2" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 5600 2350 50 
+F3 "Row1" I R 5600 2450 50 
+F4 "Row2" I R 5600 2550 50 
+F5 "Row3" I R 5600 2650 50 
+F6 "Row4" I R 5600 2750 50 
+F7 "Row5" I R 5600 2850 50 
+F8 "Row6" I R 5600 2950 50 
+F9 "Row7" I R 5600 3050 50 
+F10 "B" I L 4800 2550 50 
+F11 "R" I L 4800 2350 50 
+F12 "G" I L 4800 2450 50 
+$EndSheet
+Text HLabel 4250 2350 2    50   Input ~ 0
+Row0
+Text HLabel 4250 2450 2    50   Input ~ 0
+Row1
+Text HLabel 4250 2550 2    50   Input ~ 0
+Row2
+Text HLabel 4250 2650 2    50   Input ~ 0
+Row3
+Text HLabel 4250 2750 2    50   Input ~ 0
+Row4
+Text HLabel 4250 2850 2    50   Input ~ 0
+Row5
+Text HLabel 4250 2950 2    50   Input ~ 0
+Row6
+Text HLabel 4250 3050 2    50   Input ~ 0
+Row7
+Text HLabel 5600 2350 2    50   Input ~ 0
+Row0
+Text HLabel 5600 2450 2    50   Input ~ 0
+Row1
+Text HLabel 5600 2550 2    50   Input ~ 0
+Row2
+Text HLabel 5600 2650 2    50   Input ~ 0
+Row3
+Text HLabel 5600 2750 2    50   Input ~ 0
+Row4
+Text HLabel 5600 2850 2    50   Input ~ 0
+Row5
+Text HLabel 5600 2950 2    50   Input ~ 0
+Row6
+Text HLabel 5600 3050 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	3450 2350 3400 2350
+Wire Wire Line
+	3400 2350 3400 3250
+Wire Wire Line
+	3450 2450 3300 2450
+Wire Wire Line
+	3300 2450 3300 3250
+Wire Wire Line
+	3450 2550 3200 2550
+Wire Wire Line
+	3200 2550 3200 3250
+Text HLabel 3200 3250 3    50   Input ~ 0
+B_10
+Text HLabel 3400 3250 3    50   Input ~ 0
+R_10
+Text HLabel 3300 3250 3    50   Input ~ 0
+G_10
+Wire Wire Line
+	4800 2350 4750 2350
+Wire Wire Line
+	4750 2350 4750 3250
+Wire Wire Line
+	4800 2450 4650 2450
+Wire Wire Line
+	4650 2450 4650 3250
+Wire Wire Line
+	4800 2550 4550 2550
+Wire Wire Line
+	4550 2550 4550 3250
+Text HLabel 4550 3250 3    50   Input ~ 0
+B_11
+Text HLabel 4750 3250 3    50   Input ~ 0
+R_11
+Text HLabel 4650 3250 3    50   Input ~ 0
+G_11
+$Sheet
+S 6150 2250 800  900 
+U 600CEA4B
+F0 "sheet600CE9C3" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 6950 2350 50 
+F3 "Row1" I R 6950 2450 50 
+F4 "Row2" I R 6950 2550 50 
+F5 "Row3" I R 6950 2650 50 
+F6 "Row4" I R 6950 2750 50 
+F7 "Row5" I R 6950 2850 50 
+F8 "Row6" I R 6950 2950 50 
+F9 "Row7" I R 6950 3050 50 
+F10 "B" I L 6150 2550 50 
+F11 "R" I L 6150 2350 50 
+F12 "G" I L 6150 2450 50 
+$EndSheet
+$Sheet
+S 7500 2250 800  900 
+U 600CEA58
+F0 "sheet600CE9C4" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 8300 2350 50 
+F3 "Row1" I R 8300 2450 50 
+F4 "Row2" I R 8300 2550 50 
+F5 "Row3" I R 8300 2650 50 
+F6 "Row4" I R 8300 2750 50 
+F7 "Row5" I R 8300 2850 50 
+F8 "Row6" I R 8300 2950 50 
+F9 "Row7" I R 8300 3050 50 
+F10 "B" I L 7500 2550 50 
+F11 "R" I L 7500 2350 50 
+F12 "G" I L 7500 2450 50 
+$EndSheet
+Text HLabel 6950 2350 2    50   Input ~ 0
+Row0
+Text HLabel 6950 2450 2    50   Input ~ 0
+Row1
+Text HLabel 6950 2550 2    50   Input ~ 0
+Row2
+Text HLabel 6950 2650 2    50   Input ~ 0
+Row3
+Text HLabel 6950 2750 2    50   Input ~ 0
+Row4
+Text HLabel 6950 2850 2    50   Input ~ 0
+Row5
+Text HLabel 6950 2950 2    50   Input ~ 0
+Row6
+Text HLabel 6950 3050 2    50   Input ~ 0
+Row7
+Text HLabel 8300 2350 2    50   Input ~ 0
+Row0
+Text HLabel 8300 2450 2    50   Input ~ 0
+Row1
+Text HLabel 8300 2550 2    50   Input ~ 0
+Row2
+Text HLabel 8300 2650 2    50   Input ~ 0
+Row3
+Text HLabel 8300 2750 2    50   Input ~ 0
+Row4
+Text HLabel 8300 2850 2    50   Input ~ 0
+Row5
+Text HLabel 8300 2950 2    50   Input ~ 0
+Row6
+Text HLabel 8300 3050 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	6150 2350 6100 2350
+Wire Wire Line
+	6100 2350 6100 3250
+Wire Wire Line
+	6150 2450 6000 2450
+Wire Wire Line
+	6000 2450 6000 3250
+Wire Wire Line
+	6150 2550 5900 2550
+Wire Wire Line
+	5900 2550 5900 3250
+Text HLabel 5900 3250 3    50   Input ~ 0
+B_12
+Text HLabel 6100 3250 3    50   Input ~ 0
+R_12
+Text HLabel 6000 3250 3    50   Input ~ 0
+G_12
+Wire Wire Line
+	7500 2350 7450 2350
+Wire Wire Line
+	7450 2350 7450 3250
+Wire Wire Line
+	7500 2450 7350 2450
+Wire Wire Line
+	7350 2450 7350 3250
+Wire Wire Line
+	7500 2550 7250 2550
+Wire Wire Line
+	7250 2550 7250 3250
+Text HLabel 7250 3250 3    50   Input ~ 0
+B_13
+Text HLabel 7450 3250 3    50   Input ~ 0
+R_13
+Text HLabel 7350 3250 3    50   Input ~ 0
+G_13
+$Sheet
+S 8850 2250 800  900 
+U 600CEA87
+F0 "sheet600CE9C5" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 9650 2350 50 
+F3 "Row1" I R 9650 2450 50 
+F4 "Row2" I R 9650 2550 50 
+F5 "Row3" I R 9650 2650 50 
+F6 "Row4" I R 9650 2750 50 
+F7 "Row5" I R 9650 2850 50 
+F8 "Row6" I R 9650 2950 50 
+F9 "Row7" I R 9650 3050 50 
+F10 "B" I L 8850 2550 50 
+F11 "R" I L 8850 2350 50 
+F12 "G" I L 8850 2450 50 
+$EndSheet
+$Sheet
+S 10200 2250 800  900 
+U 600CEA94
+F0 "sheet600CE9C6" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 11000 2350 50 
+F3 "Row1" I R 11000 2450 50 
+F4 "Row2" I R 11000 2550 50 
+F5 "Row3" I R 11000 2650 50 
+F6 "Row4" I R 11000 2750 50 
+F7 "Row5" I R 11000 2850 50 
+F8 "Row6" I R 11000 2950 50 
+F9 "Row7" I R 11000 3050 50 
+F10 "B" I L 10200 2550 50 
+F11 "R" I L 10200 2350 50 
+F12 "G" I L 10200 2450 50 
+$EndSheet
+Text HLabel 9650 2350 2    50   Input ~ 0
+Row0
+Text HLabel 9650 2450 2    50   Input ~ 0
+Row1
+Text HLabel 9650 2550 2    50   Input ~ 0
+Row2
+Text HLabel 9650 2650 2    50   Input ~ 0
+Row3
+Text HLabel 9650 2750 2    50   Input ~ 0
+Row4
+Text HLabel 9650 2850 2    50   Input ~ 0
+Row5
+Text HLabel 9650 2950 2    50   Input ~ 0
+Row6
+Text HLabel 9650 3050 2    50   Input ~ 0
+Row7
+Text HLabel 11000 2350 2    50   Input ~ 0
+Row0
+Text HLabel 11000 2450 2    50   Input ~ 0
+Row1
+Text HLabel 11000 2550 2    50   Input ~ 0
+Row2
+Text HLabel 11000 2650 2    50   Input ~ 0
+Row3
+Text HLabel 11000 2750 2    50   Input ~ 0
+Row4
+Text HLabel 11000 2850 2    50   Input ~ 0
+Row5
+Text HLabel 11000 2950 2    50   Input ~ 0
+Row6
+Text HLabel 11000 3050 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	8850 2350 8800 2350
+Wire Wire Line
+	8800 2350 8800 3250
+Wire Wire Line
+	8850 2450 8700 2450
+Wire Wire Line
+	8700 2450 8700 3250
+Wire Wire Line
+	8850 2550 8600 2550
+Wire Wire Line
+	8600 2550 8600 3250
+Text HLabel 8600 3250 3    50   Input ~ 0
+B_14
+Text HLabel 8800 3250 3    50   Input ~ 0
+R_14
+Text HLabel 8700 3250 3    50   Input ~ 0
+G_14
+Wire Wire Line
+	10200 2350 10150 2350
+Wire Wire Line
+	10150 2350 10150 3250
+Wire Wire Line
+	10200 2450 10050 2450
+Wire Wire Line
+	10050 2450 10050 3250
+Wire Wire Line
+	10200 2550 9950 2550
+Wire Wire Line
+	9950 2550 9950 3250
+Text HLabel 9950 3250 3    50   Input ~ 0
+B_15
+Text HLabel 10150 3250 3    50   Input ~ 0
+R_15
+Text HLabel 10050 3250 3    50   Input ~ 0
+G_15
+$Sheet
+S 750  3600 800  900 
+U 600F5513
+F0 "sheet600F54F7" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 1550 3700 50 
+F3 "Row1" I R 1550 3800 50 
+F4 "Row2" I R 1550 3900 50 
+F5 "Row3" I R 1550 4000 50 
+F6 "Row4" I R 1550 4100 50 
+F7 "Row5" I R 1550 4200 50 
+F8 "Row6" I R 1550 4300 50 
+F9 "Row7" I R 1550 4400 50 
+F10 "B" I L 750 3900 50 
+F11 "R" I L 750 3700 50 
+F12 "G" I L 750 3800 50 
+$EndSheet
+$Sheet
+S 2100 3600 800  900 
+U 600F5520
+F0 "sheet600F54F8" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 2900 3700 50 
+F3 "Row1" I R 2900 3800 50 
+F4 "Row2" I R 2900 3900 50 
+F5 "Row3" I R 2900 4000 50 
+F6 "Row4" I R 2900 4100 50 
+F7 "Row5" I R 2900 4200 50 
+F8 "Row6" I R 2900 4300 50 
+F9 "Row7" I R 2900 4400 50 
+F10 "B" I L 2100 3900 50 
+F11 "R" I L 2100 3700 50 
+F12 "G" I L 2100 3800 50 
+$EndSheet
+Text HLabel 1550 3700 2    50   Input ~ 0
+Row0
+Text HLabel 1550 3800 2    50   Input ~ 0
+Row1
+Text HLabel 1550 3900 2    50   Input ~ 0
+Row2
+Text HLabel 1550 4000 2    50   Input ~ 0
+Row3
+Text HLabel 1550 4100 2    50   Input ~ 0
+Row4
+Text HLabel 1550 4200 2    50   Input ~ 0
+Row5
+Text HLabel 1550 4300 2    50   Input ~ 0
+Row6
+Text HLabel 1550 4400 2    50   Input ~ 0
+Row7
+Text HLabel 2900 3700 2    50   Input ~ 0
+Row0
+Text HLabel 2900 3800 2    50   Input ~ 0
+Row1
+Text HLabel 2900 3900 2    50   Input ~ 0
+Row2
+Text HLabel 2900 4000 2    50   Input ~ 0
+Row3
+Text HLabel 2900 4100 2    50   Input ~ 0
+Row4
+Text HLabel 2900 4200 2    50   Input ~ 0
+Row5
+Text HLabel 2900 4300 2    50   Input ~ 0
+Row6
+Text HLabel 2900 4400 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	750  3700 700  3700
+Wire Wire Line
+	700  3700 700  4600
+Wire Wire Line
+	750  3800 600  3800
+Wire Wire Line
+	600  3800 600  4600
+Wire Wire Line
+	750  3900 500  3900
+Wire Wire Line
+	500  3900 500  4600
+Text HLabel 500  4600 3    50   Input ~ 0
+B_16
+Text HLabel 700  4600 3    50   Input ~ 0
+R_16
+Text HLabel 600  4600 3    50   Input ~ 0
+G_16
+Wire Wire Line
+	2100 3700 2050 3700
+Wire Wire Line
+	2050 3700 2050 4600
+Wire Wire Line
+	2100 3800 1950 3800
+Wire Wire Line
+	1950 3800 1950 4600
+Wire Wire Line
+	2100 3900 1850 3900
+Wire Wire Line
+	1850 3900 1850 4600
+Text HLabel 1850 4600 3    50   Input ~ 0
+B_17
+Text HLabel 2050 4600 3    50   Input ~ 0
+R_17
+Text HLabel 1950 4600 3    50   Input ~ 0
+G_17
+$Sheet
+S 3450 3600 800  900 
+U 600F554F
+F0 "sheet600F54F9" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 4250 3700 50 
+F3 "Row1" I R 4250 3800 50 
+F4 "Row2" I R 4250 3900 50 
+F5 "Row3" I R 4250 4000 50 
+F6 "Row4" I R 4250 4100 50 
+F7 "Row5" I R 4250 4200 50 
+F8 "Row6" I R 4250 4300 50 
+F9 "Row7" I R 4250 4400 50 
+F10 "B" I L 3450 3900 50 
+F11 "R" I L 3450 3700 50 
+F12 "G" I L 3450 3800 50 
+$EndSheet
+$Sheet
+S 4800 3600 800  900 
+U 600F555C
+F0 "sheet600F54FA" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 5600 3700 50 
+F3 "Row1" I R 5600 3800 50 
+F4 "Row2" I R 5600 3900 50 
+F5 "Row3" I R 5600 4000 50 
+F6 "Row4" I R 5600 4100 50 
+F7 "Row5" I R 5600 4200 50 
+F8 "Row6" I R 5600 4300 50 
+F9 "Row7" I R 5600 4400 50 
+F10 "B" I L 4800 3900 50 
+F11 "R" I L 4800 3700 50 
+F12 "G" I L 4800 3800 50 
+$EndSheet
+Text HLabel 4250 3700 2    50   Input ~ 0
+Row0
+Text HLabel 4250 3800 2    50   Input ~ 0
+Row1
+Text HLabel 4250 3900 2    50   Input ~ 0
+Row2
+Text HLabel 4250 4000 2    50   Input ~ 0
+Row3
+Text HLabel 4250 4100 2    50   Input ~ 0
+Row4
+Text HLabel 4250 4200 2    50   Input ~ 0
+Row5
+Text HLabel 4250 4300 2    50   Input ~ 0
+Row6
+Text HLabel 4250 4400 2    50   Input ~ 0
+Row7
+Text HLabel 5600 3700 2    50   Input ~ 0
+Row0
+Text HLabel 5600 3800 2    50   Input ~ 0
+Row1
+Text HLabel 5600 3900 2    50   Input ~ 0
+Row2
+Text HLabel 5600 4000 2    50   Input ~ 0
+Row3
+Text HLabel 5600 4100 2    50   Input ~ 0
+Row4
+Text HLabel 5600 4200 2    50   Input ~ 0
+Row5
+Text HLabel 5600 4300 2    50   Input ~ 0
+Row6
+Text HLabel 5600 4400 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	3450 3700 3400 3700
+Wire Wire Line
+	3400 3700 3400 4600
+Wire Wire Line
+	3450 3800 3300 3800
+Wire Wire Line
+	3300 3800 3300 4600
+Wire Wire Line
+	3450 3900 3200 3900
+Wire Wire Line
+	3200 3900 3200 4600
+Text HLabel 3200 4600 3    50   Input ~ 0
+B_18
+Text HLabel 3400 4600 3    50   Input ~ 0
+R_18
+Text HLabel 3300 4600 3    50   Input ~ 0
+G_18
+Wire Wire Line
+	4800 3700 4750 3700
+Wire Wire Line
+	4750 3700 4750 4600
+Wire Wire Line
+	4800 3800 4650 3800
+Wire Wire Line
+	4650 3800 4650 4600
+Wire Wire Line
+	4800 3900 4550 3900
+Wire Wire Line
+	4550 3900 4550 4600
+Text HLabel 4550 4600 3    50   Input ~ 0
+B_19
+Text HLabel 4750 4600 3    50   Input ~ 0
+R_19
+Text HLabel 4650 4600 3    50   Input ~ 0
+G_19
+$Sheet
+S 6150 3600 800  900 
+U 600F558B
+F0 "sheet600F54FB" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 6950 3700 50 
+F3 "Row1" I R 6950 3800 50 
+F4 "Row2" I R 6950 3900 50 
+F5 "Row3" I R 6950 4000 50 
+F6 "Row4" I R 6950 4100 50 
+F7 "Row5" I R 6950 4200 50 
+F8 "Row6" I R 6950 4300 50 
+F9 "Row7" I R 6950 4400 50 
+F10 "B" I L 6150 3900 50 
+F11 "R" I L 6150 3700 50 
+F12 "G" I L 6150 3800 50 
+$EndSheet
+$Sheet
+S 7500 3600 800  900 
+U 600F5598
+F0 "sheet600F54FC" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 8300 3700 50 
+F3 "Row1" I R 8300 3800 50 
+F4 "Row2" I R 8300 3900 50 
+F5 "Row3" I R 8300 4000 50 
+F6 "Row4" I R 8300 4100 50 
+F7 "Row5" I R 8300 4200 50 
+F8 "Row6" I R 8300 4300 50 
+F9 "Row7" I R 8300 4400 50 
+F10 "B" I L 7500 3900 50 
+F11 "R" I L 7500 3700 50 
+F12 "G" I L 7500 3800 50 
+$EndSheet
+Text HLabel 6950 3700 2    50   Input ~ 0
+Row0
+Text HLabel 6950 3800 2    50   Input ~ 0
+Row1
+Text HLabel 6950 3900 2    50   Input ~ 0
+Row2
+Text HLabel 6950 4000 2    50   Input ~ 0
+Row3
+Text HLabel 6950 4100 2    50   Input ~ 0
+Row4
+Text HLabel 6950 4200 2    50   Input ~ 0
+Row5
+Text HLabel 6950 4300 2    50   Input ~ 0
+Row6
+Text HLabel 6950 4400 2    50   Input ~ 0
+Row7
+Text HLabel 8300 3700 2    50   Input ~ 0
+Row0
+Text HLabel 8300 3800 2    50   Input ~ 0
+Row1
+Text HLabel 8300 3900 2    50   Input ~ 0
+Row2
+Text HLabel 8300 4000 2    50   Input ~ 0
+Row3
+Text HLabel 8300 4100 2    50   Input ~ 0
+Row4
+Text HLabel 8300 4200 2    50   Input ~ 0
+Row5
+Text HLabel 8300 4300 2    50   Input ~ 0
+Row6
+Text HLabel 8300 4400 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	6150 3700 6100 3700
+Wire Wire Line
+	6100 3700 6100 4600
+Wire Wire Line
+	6150 3800 6000 3800
+Wire Wire Line
+	6000 3800 6000 4600
+Wire Wire Line
+	6150 3900 5900 3900
+Wire Wire Line
+	5900 3900 5900 4600
+Wire Wire Line
+	7500 3700 7450 3700
+Wire Wire Line
+	7450 3700 7450 4600
+Wire Wire Line
+	7500 3800 7350 3800
+Wire Wire Line
+	7350 3800 7350 4600
+Wire Wire Line
+	7500 3900 7250 3900
+Wire Wire Line
+	7250 3900 7250 4600
+Text HLabel 5900 4600 3    50   Input ~ 0
+B_20
+Text HLabel 6100 4600 3    50   Input ~ 0
+R_20
+Text HLabel 6000 4600 3    50   Input ~ 0
+G_20
+$Sheet
+S 8850 3600 800  900 
+U 600F55C7
+F0 "sheet600F54FD" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 9650 3700 50 
+F3 "Row1" I R 9650 3800 50 
+F4 "Row2" I R 9650 3900 50 
+F5 "Row3" I R 9650 4000 50 
+F6 "Row4" I R 9650 4100 50 
+F7 "Row5" I R 9650 4200 50 
+F8 "Row6" I R 9650 4300 50 
+F9 "Row7" I R 9650 4400 50 
+F10 "B" I L 8850 3900 50 
+F11 "R" I L 8850 3700 50 
+F12 "G" I L 8850 3800 50 
+$EndSheet
+$Sheet
+S 10200 3600 800  900 
+U 600F55D4
+F0 "sheet600F54FE" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 11000 3700 50 
+F3 "Row1" I R 11000 3800 50 
+F4 "Row2" I R 11000 3900 50 
+F5 "Row3" I R 11000 4000 50 
+F6 "Row4" I R 11000 4100 50 
+F7 "Row5" I R 11000 4200 50 
+F8 "Row6" I R 11000 4300 50 
+F9 "Row7" I R 11000 4400 50 
+F10 "B" I L 10200 3900 50 
+F11 "R" I L 10200 3700 50 
+F12 "G" I L 10200 3800 50 
+$EndSheet
+Text HLabel 9650 3700 2    50   Input ~ 0
+Row0
+Text HLabel 9650 3800 2    50   Input ~ 0
+Row1
+Text HLabel 9650 3900 2    50   Input ~ 0
+Row2
+Text HLabel 9650 4000 2    50   Input ~ 0
+Row3
+Text HLabel 9650 4100 2    50   Input ~ 0
+Row4
+Text HLabel 9650 4200 2    50   Input ~ 0
+Row5
+Text HLabel 9650 4300 2    50   Input ~ 0
+Row6
+Text HLabel 9650 4400 2    50   Input ~ 0
+Row7
+Text HLabel 11000 3700 2    50   Input ~ 0
+Row0
+Text HLabel 11000 3800 2    50   Input ~ 0
+Row1
+Text HLabel 11000 3900 2    50   Input ~ 0
+Row2
+Text HLabel 11000 4000 2    50   Input ~ 0
+Row3
+Text HLabel 11000 4100 2    50   Input ~ 0
+Row4
+Text HLabel 11000 4200 2    50   Input ~ 0
+Row5
+Text HLabel 11000 4300 2    50   Input ~ 0
+Row6
+Text HLabel 11000 4400 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	8850 3700 8800 3700
+Wire Wire Line
+	8800 3700 8800 4600
+Wire Wire Line
+	8850 3800 8700 3800
+Wire Wire Line
+	8700 3800 8700 4600
+Wire Wire Line
+	8850 3900 8600 3900
+Wire Wire Line
+	8600 3900 8600 4600
+Text HLabel 7250 4600 3    50   Input ~ 0
+B_21
+Text HLabel 7450 4600 3    50   Input ~ 0
+R_21
+Text HLabel 7350 4600 3    50   Input ~ 0
+G_21
+Wire Wire Line
+	10200 3700 10150 3700
+Wire Wire Line
+	10150 3700 10150 4600
+Wire Wire Line
+	10200 3800 10050 3800
+Wire Wire Line
+	10050 3800 10050 4600
+Wire Wire Line
+	10200 3900 9950 3900
+Wire Wire Line
+	9950 3900 9950 4600
+Text HLabel 8600 4600 3    50   Input ~ 0
+B_22
+Text HLabel 8800 4600 3    50   Input ~ 0
+R_22
+Text HLabel 8700 4600 3    50   Input ~ 0
+G_22
+$Sheet
+S 750  4950 800  900 
+U 600F5603
+F0 "sheet600F54FF" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 1550 5050 50 
+F3 "Row1" I R 1550 5150 50 
+F4 "Row2" I R 1550 5250 50 
+F5 "Row3" I R 1550 5350 50 
+F6 "Row4" I R 1550 5450 50 
+F7 "Row5" I R 1550 5550 50 
+F8 "Row6" I R 1550 5650 50 
+F9 "Row7" I R 1550 5750 50 
+F10 "B" I L 750 5250 50 
+F11 "R" I L 750 5050 50 
+F12 "G" I L 750 5150 50 
+$EndSheet
+$Sheet
+S 2100 4950 800  900 
+U 600F5610
+F0 "sheet600F5500" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 2900 5050 50 
+F3 "Row1" I R 2900 5150 50 
+F4 "Row2" I R 2900 5250 50 
+F5 "Row3" I R 2900 5350 50 
+F6 "Row4" I R 2900 5450 50 
+F7 "Row5" I R 2900 5550 50 
+F8 "Row6" I R 2900 5650 50 
+F9 "Row7" I R 2900 5750 50 
+F10 "B" I L 2100 5250 50 
+F11 "R" I L 2100 5050 50 
+F12 "G" I L 2100 5150 50 
+$EndSheet
+Text HLabel 1550 5050 2    50   Input ~ 0
+Row0
+Text HLabel 1550 5150 2    50   Input ~ 0
+Row1
+Text HLabel 1550 5250 2    50   Input ~ 0
+Row2
+Text HLabel 1550 5350 2    50   Input ~ 0
+Row3
+Text HLabel 1550 5450 2    50   Input ~ 0
+Row4
+Text HLabel 1550 5550 2    50   Input ~ 0
+Row5
+Text HLabel 1550 5650 2    50   Input ~ 0
+Row6
+Text HLabel 1550 5750 2    50   Input ~ 0
+Row7
+Text HLabel 2900 5050 2    50   Input ~ 0
+Row0
+Text HLabel 2900 5150 2    50   Input ~ 0
+Row1
+Text HLabel 2900 5250 2    50   Input ~ 0
+Row2
+Text HLabel 2900 5350 2    50   Input ~ 0
+Row3
+Text HLabel 2900 5450 2    50   Input ~ 0
+Row4
+Text HLabel 2900 5550 2    50   Input ~ 0
+Row5
+Text HLabel 2900 5650 2    50   Input ~ 0
+Row6
+Text HLabel 2900 5750 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	750  5050 700  5050
+Wire Wire Line
+	700  5050 700  5950
+Wire Wire Line
+	750  5150 600  5150
+Wire Wire Line
+	600  5150 600  5950
+Wire Wire Line
+	750  5250 500  5250
+Wire Wire Line
+	500  5250 500  5950
+Text HLabel 500  5950 3    50   Input ~ 0
+B_24
+Text HLabel 700  5950 3    50   Input ~ 0
+R_24
+Text HLabel 600  5950 3    50   Input ~ 0
+G_24
+Wire Wire Line
+	2100 5050 2050 5050
+Wire Wire Line
+	2050 5050 2050 5950
+Wire Wire Line
+	2100 5150 1950 5150
+Wire Wire Line
+	1950 5150 1950 5950
+Wire Wire Line
+	2100 5250 1850 5250
+Wire Wire Line
+	1850 5250 1850 5950
+Text HLabel 1850 5950 3    50   Input ~ 0
+B_25
+Text HLabel 2050 5950 3    50   Input ~ 0
+R_25
+Text HLabel 1950 5950 3    50   Input ~ 0
+G_25
+$Sheet
+S 3450 4950 800  900 
+U 600F563F
+F0 "sheet600F5501" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 4250 5050 50 
+F3 "Row1" I R 4250 5150 50 
+F4 "Row2" I R 4250 5250 50 
+F5 "Row3" I R 4250 5350 50 
+F6 "Row4" I R 4250 5450 50 
+F7 "Row5" I R 4250 5550 50 
+F8 "Row6" I R 4250 5650 50 
+F9 "Row7" I R 4250 5750 50 
+F10 "B" I L 3450 5250 50 
+F11 "R" I L 3450 5050 50 
+F12 "G" I L 3450 5150 50 
+$EndSheet
+$Sheet
+S 4800 4950 800  900 
+U 600F564C
+F0 "sheet600F5502" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 5600 5050 50 
+F3 "Row1" I R 5600 5150 50 
+F4 "Row2" I R 5600 5250 50 
+F5 "Row3" I R 5600 5350 50 
+F6 "Row4" I R 5600 5450 50 
+F7 "Row5" I R 5600 5550 50 
+F8 "Row6" I R 5600 5650 50 
+F9 "Row7" I R 5600 5750 50 
+F10 "B" I L 4800 5250 50 
+F11 "R" I L 4800 5050 50 
+F12 "G" I L 4800 5150 50 
+$EndSheet
+Text HLabel 4250 5050 2    50   Input ~ 0
+Row0
+Text HLabel 4250 5150 2    50   Input ~ 0
+Row1
+Text HLabel 4250 5250 2    50   Input ~ 0
+Row2
+Text HLabel 4250 5350 2    50   Input ~ 0
+Row3
+Text HLabel 4250 5450 2    50   Input ~ 0
+Row4
+Text HLabel 4250 5550 2    50   Input ~ 0
+Row5
+Text HLabel 4250 5650 2    50   Input ~ 0
+Row6
+Text HLabel 4250 5750 2    50   Input ~ 0
+Row7
+Text HLabel 5600 5050 2    50   Input ~ 0
+Row0
+Text HLabel 5600 5150 2    50   Input ~ 0
+Row1
+Text HLabel 5600 5250 2    50   Input ~ 0
+Row2
+Text HLabel 5600 5350 2    50   Input ~ 0
+Row3
+Text HLabel 5600 5450 2    50   Input ~ 0
+Row4
+Text HLabel 5600 5550 2    50   Input ~ 0
+Row5
+Text HLabel 5600 5650 2    50   Input ~ 0
+Row6
+Text HLabel 5600 5750 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	3450 5050 3400 5050
+Wire Wire Line
+	3400 5050 3400 5950
+Wire Wire Line
+	3450 5150 3300 5150
+Wire Wire Line
+	3300 5150 3300 5950
+Wire Wire Line
+	3450 5250 3200 5250
+Wire Wire Line
+	3200 5250 3200 5950
+Text HLabel 3200 5950 3    50   Input ~ 0
+B_26
+Text HLabel 3400 5950 3    50   Input ~ 0
+R_26
+Text HLabel 3300 5950 3    50   Input ~ 0
+G_26
+Wire Wire Line
+	4800 5050 4750 5050
+Wire Wire Line
+	4750 5050 4750 5950
+Wire Wire Line
+	4800 5150 4650 5150
+Wire Wire Line
+	4650 5150 4650 5950
+Wire Wire Line
+	4800 5250 4550 5250
+Wire Wire Line
+	4550 5250 4550 5950
+Text HLabel 4550 5950 3    50   Input ~ 0
+B_27
+Text HLabel 4750 5950 3    50   Input ~ 0
+R_27
+Text HLabel 4650 5950 3    50   Input ~ 0
+G_27
+$Sheet
+S 6150 4950 800  900 
+U 600F567B
+F0 "sheet600F5503" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 6950 5050 50 
+F3 "Row1" I R 6950 5150 50 
+F4 "Row2" I R 6950 5250 50 
+F5 "Row3" I R 6950 5350 50 
+F6 "Row4" I R 6950 5450 50 
+F7 "Row5" I R 6950 5550 50 
+F8 "Row6" I R 6950 5650 50 
+F9 "Row7" I R 6950 5750 50 
+F10 "B" I L 6150 5250 50 
+F11 "R" I L 6150 5050 50 
+F12 "G" I L 6150 5150 50 
+$EndSheet
+$Sheet
+S 7500 4950 800  900 
+U 600F5688
+F0 "sheet600F5504" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 8300 5050 50 
+F3 "Row1" I R 8300 5150 50 
+F4 "Row2" I R 8300 5250 50 
+F5 "Row3" I R 8300 5350 50 
+F6 "Row4" I R 8300 5450 50 
+F7 "Row5" I R 8300 5550 50 
+F8 "Row6" I R 8300 5650 50 
+F9 "Row7" I R 8300 5750 50 
+F10 "B" I L 7500 5250 50 
+F11 "R" I L 7500 5050 50 
+F12 "G" I L 7500 5150 50 
+$EndSheet
+Text HLabel 6950 5050 2    50   Input ~ 0
+Row0
+Text HLabel 6950 5150 2    50   Input ~ 0
+Row1
+Text HLabel 6950 5250 2    50   Input ~ 0
+Row2
+Text HLabel 6950 5350 2    50   Input ~ 0
+Row3
+Text HLabel 6950 5450 2    50   Input ~ 0
+Row4
+Text HLabel 6950 5550 2    50   Input ~ 0
+Row5
+Text HLabel 6950 5650 2    50   Input ~ 0
+Row6
+Text HLabel 6950 5750 2    50   Input ~ 0
+Row7
+Text HLabel 8300 5050 2    50   Input ~ 0
+Row0
+Text HLabel 8300 5150 2    50   Input ~ 0
+Row1
+Text HLabel 8300 5250 2    50   Input ~ 0
+Row2
+Text HLabel 8300 5350 2    50   Input ~ 0
+Row3
+Text HLabel 8300 5450 2    50   Input ~ 0
+Row4
+Text HLabel 8300 5550 2    50   Input ~ 0
+Row5
+Text HLabel 8300 5650 2    50   Input ~ 0
+Row6
+Text HLabel 8300 5750 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	6150 5050 6100 5050
+Wire Wire Line
+	6100 5050 6100 5950
+Wire Wire Line
+	6150 5150 6000 5150
+Wire Wire Line
+	6000 5150 6000 5950
+Wire Wire Line
+	6150 5250 5900 5250
+Wire Wire Line
+	5900 5250 5900 5950
+Text HLabel 5900 5950 3    50   Input ~ 0
+B_28
+Text HLabel 6100 5950 3    50   Input ~ 0
+R_28
+Text HLabel 6000 5950 3    50   Input ~ 0
+G_28
+Wire Wire Line
+	7500 5050 7450 5050
+Wire Wire Line
+	7450 5050 7450 5950
+Wire Wire Line
+	7500 5150 7350 5150
+Wire Wire Line
+	7350 5150 7350 5950
+Wire Wire Line
+	7500 5250 7250 5250
+Wire Wire Line
+	7250 5250 7250 5950
+Text HLabel 7250 5950 3    50   Input ~ 0
+B_29
+Text HLabel 7450 5950 3    50   Input ~ 0
+R_29
+Text HLabel 7350 5950 3    50   Input ~ 0
+G_29
+$Sheet
+S 8850 4950 800  900 
+U 600F56B7
+F0 "sheet600F5505" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 9650 5050 50 
+F3 "Row1" I R 9650 5150 50 
+F4 "Row2" I R 9650 5250 50 
+F5 "Row3" I R 9650 5350 50 
+F6 "Row4" I R 9650 5450 50 
+F7 "Row5" I R 9650 5550 50 
+F8 "Row6" I R 9650 5650 50 
+F9 "Row7" I R 9650 5750 50 
+F10 "B" I L 8850 5250 50 
+F11 "R" I L 8850 5050 50 
+F12 "G" I L 8850 5150 50 
+$EndSheet
+$Sheet
+S 10200 4950 800  900 
+U 600F56C4
+F0 "sheet600F5506" 50
+F1 "8LEDS.sch" 50
+F2 "Row0" I R 11000 5050 50 
+F3 "Row1" I R 11000 5150 50 
+F4 "Row2" I R 11000 5250 50 
+F5 "Row3" I R 11000 5350 50 
+F6 "Row4" I R 11000 5450 50 
+F7 "Row5" I R 11000 5550 50 
+F8 "Row6" I R 11000 5650 50 
+F9 "Row7" I R 11000 5750 50 
+F10 "B" I L 10200 5250 50 
+F11 "R" I L 10200 5050 50 
+F12 "G" I L 10200 5150 50 
+$EndSheet
+Text HLabel 9650 5050 2    50   Input ~ 0
+Row0
+Text HLabel 9650 5150 2    50   Input ~ 0
+Row1
+Text HLabel 9650 5250 2    50   Input ~ 0
+Row2
+Text HLabel 9650 5350 2    50   Input ~ 0
+Row3
+Text HLabel 9650 5450 2    50   Input ~ 0
+Row4
+Text HLabel 9650 5550 2    50   Input ~ 0
+Row5
+Text HLabel 9650 5650 2    50   Input ~ 0
+Row6
+Text HLabel 9650 5750 2    50   Input ~ 0
+Row7
+Text HLabel 11000 5050 2    50   Input ~ 0
+Row0
+Text HLabel 11000 5150 2    50   Input ~ 0
+Row1
+Text HLabel 11000 5250 2    50   Input ~ 0
+Row2
+Text HLabel 11000 5350 2    50   Input ~ 0
+Row3
+Text HLabel 11000 5450 2    50   Input ~ 0
+Row4
+Text HLabel 11000 5550 2    50   Input ~ 0
+Row5
+Text HLabel 11000 5650 2    50   Input ~ 0
+Row6
+Text HLabel 11000 5750 2    50   Input ~ 0
+Row7
+Wire Wire Line
+	8850 5050 8800 5050
+Wire Wire Line
+	8800 5050 8800 5950
+Wire Wire Line
+	8850 5150 8700 5150
+Wire Wire Line
+	8700 5150 8700 5950
+Wire Wire Line
+	8850 5250 8600 5250
+Wire Wire Line
+	8600 5250 8600 5950
+Text HLabel 8600 5950 3    50   Input ~ 0
+B_30
+Text HLabel 8800 5950 3    50   Input ~ 0
+R_30
+Text HLabel 8700 5950 3    50   Input ~ 0
+G_30
+Wire Wire Line
+	10200 5050 10150 5050
+Wire Wire Line
+	10150 5050 10150 5950
+Wire Wire Line
+	10200 5150 10050 5150
+Wire Wire Line
+	10050 5150 10050 5950
+Wire Wire Line
+	10200 5250 9950 5250
+Wire Wire Line
+	9950 5250 9950 5950
+Text HLabel 9950 5950 3    50   Input ~ 0
+B_31
+Text HLabel 10150 5950 3    50   Input ~ 0
+R_31
+Text HLabel 10050 5950 3    50   Input ~ 0
+G_31
+Text HLabel 9950 4600 3    50   Input ~ 0
+B_23
+Text HLabel 10150 4600 3    50   Input ~ 0
+R_23
+Text HLabel 10050 4600 3    50   Input ~ 0
+G_23
+$EndSCHEMATC
