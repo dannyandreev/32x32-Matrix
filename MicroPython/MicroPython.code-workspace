@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"name": "esp32platformio_esp-idf",
+			"path": "../esp32platformio_esp-idf/esp32platformio_esp-idf"
+		}
+	],
+	"settings": {}
+}
